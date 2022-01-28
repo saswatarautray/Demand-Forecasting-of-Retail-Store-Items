@@ -3,6 +3,9 @@
 
 The objective of the problem is to forecast 3 months of sales for 50 different items at 10 different stores using the 5 years history of sales.
 
+### Dataset:
+https://www.kaggle.com/c/demand-forecasting-kernels-only/data
+
 The data contains the following files:
 
 - train.csv : the training data witht the history of sales.
