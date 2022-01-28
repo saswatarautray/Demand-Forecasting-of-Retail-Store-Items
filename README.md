@@ -32,3 +32,17 @@ A good forecast leads to a series of wins in the other pipelines in the supply c
 
 ### What is the difference between a time series and a normal series?
 Time component is important here. The time series is dependent on the time. However a normal series say 1, 2, 3...100 has no time component to it. When the value that a series will take depends on the time it was recorded, it is a time series.
+
+### Steps:
+
+1. Load Libraries
+2. Load Data, Summary
+3. Missing Values
+4. Individual Feature Visualization
+4.3 Sales growth monthly
+4.4 Growth by Year
+4.5 Sales growth by store
+4.6 Yearly Growth by Item
+5. Prophet Model
+5.8 SMAPE Calcuation
+5.9 Automated forecasting with Prophet: Splitting data by store and item
